@@ -1,0 +1,6 @@
+@BowlerAPI_HostAddress = http://localhost:5009
+
+GET {{BowlerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
